@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "EX16–19",
+  "name": "FER202 · Event Handling, Render, Snapshot và PropTypes",
   "icons": [
     {
       "src": "favicon.ico",
